@@ -1,12 +1,11 @@
 Open Soruce
 
-팀 : Undecided
+Team : Undecided
 
-팀원 : 권태윤 손홍일 이민재 강민준 박민응
+Member : 권태윤 손홍일 이민재 강민준 박민응
 
+Name : 강민준
 
-이름 : 강민준
-
-나이 : 24
+Age : 24
 
 
