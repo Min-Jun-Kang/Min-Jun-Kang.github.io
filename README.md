@@ -1,4 +1,4 @@
-오픈소스
+Open Soruce
 
 팀 : Undecided
 
